@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:Špongia
+DTSTART;VALUE=DATE:20211022
+DTEND;VALUE=DATE:20211115
+DTSTAMP;VALUE=DATE-TIME:20211021T220000Z
+UID:107937ba6ff1fd07a25154b0f95242b7fad0f2f0@kockatykalendar.sk
+DESCRIPTION:súťaž | INF | ZŠ 5 – SŠ 4\n\nOrganizátor(i): ŠpMNDaG\
+ nhttp://www.smnd.sk/spongia
+URL:http://www.smnd.sk/spongia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:iBobor
+DTSTART;VALUE=DATE:20211108
+DTEND;VALUE=DATE:20211112
+DTSTAMP;VALUE=DATE-TIME:20211107T230000Z
+UID:b674e1d4dfa81a343037c1063c891579537892e5@kockatykalendar.sk
+DESCRIPTION:súťaž | INF | ZŠ 3 – SŠ 4\n\nOrganizátor(i): FMFI UK\n
+ http://www.ibobor.sk/
+URL:http://www.ibobor.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LSTME - letné sústredenie talentovanej mládeže v elektronike
+DTSTART;VALUE=DATE:20220814
+DTEND;VALUE=DATE:20220828
+DTSTAMP;VALUE=DATE-TIME:20220813T220000Z
+UID:2eb141322d02ea0abd3af10ce3e932d101166343@kockatykalendar.sk
+DESCRIPTION:tábor | INF\, iné | ZŠ 7 – SŠ 4\n\nLetné sústredenie t
+ alentovanej mládeže v elektronike (LSTME) je jedinečné sústredenie pr
+ e chlapcov a dievčatá\, ktorí sa chcú zdokonaliť v oblasti elektronik
+ y v kolektíve profesionálov konkrétneho odboru a ľudí s rovnakými z
+ áujmami.\n\nOrganizátor(i): SSE\nhttps://lstme.sk/
+URL:https://lstme.sk/
+END:VEVENT
+END:VCALENDAR

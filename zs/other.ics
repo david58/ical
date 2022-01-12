@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:Košická šifrovačka
+DTSTART;VALUE=DATE:20211016
+DTSTAMP;VALUE=DATE-TIME:20211015T220000Z
+UID:4ce13f944da0ae8a03b5fdc917fd678a691469c3@kockatykalendar.sk
+DESCRIPTION:súťaž | iné | ZŠ 7 – SŠ 4\n\nOrganizátor(i): Strom\nh
+ ttps://seminar.strom.sk/sifrovacka/info/
+URL:https://seminar.strom.sk/sifrovacka/info/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LSTME - letné sústredenie talentovanej mládeže v elektronike
+DTSTART;VALUE=DATE:20220814
+DTEND;VALUE=DATE:20220828
+DTSTAMP;VALUE=DATE-TIME:20220813T220000Z
+UID:2eb141322d02ea0abd3af10ce3e932d101166343@kockatykalendar.sk
+DESCRIPTION:tábor | INF\, iné | ZŠ 7 – SŠ 4\n\nLetné sústredenie t
+ alentovanej mládeže v elektronike (LSTME) je jedinečné sústredenie pr
+ e chlapcov a dievčatá\, ktorí sa chcú zdokonaliť v oblasti elektronik
+ y v kolektíve profesionálov konkrétneho odboru a ľudí s rovnakými z
+ áujmami.\n\nOrganizátor(i): SSE\nhttps://lstme.sk/
+URL:https://lstme.sk/
+END:VEVENT
+END:VCALENDAR

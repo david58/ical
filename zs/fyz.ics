@@ -1,0 +1,117 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:1. séria Pikofyz
+DTSTART;VALUE=DATE:20220228
+DTSTAMP;VALUE=DATE-TIME:20220227T230000Z
+UID:3a7e372221e8b1d3cf637064785993fc390be6eb@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk/
+URL:https://pikofyz.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Zrušený) Pikofyz sústredenie
+DTSTART;VALUE=DATE:20220122
+DTEND;VALUE=DATE:20220129
+DTSTAMP;VALUE=DATE-TIME:20220121T230000Z
+UID:c3d728b598ef77832ab56d4f9cd02710804b6b21@kockatykalendar.sk
+DESCRIPTION:sústredenie | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nht
+ tps://pikofyz.sk/
+URL:https://pikofyz.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3. séria Pikofyz
+DTSTART;VALUE=DATE:20220502
+DTSTAMP;VALUE=DATE-TIME:20220501T220000Z
+UID:b4f06e17a5d4f21ba04c62cbbaf4f7b34e8b1683@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk/
+URL:https://pikofyz.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kockatý víkend
+DTSTART;VALUE=DATE:20220422
+DTEND;VALUE=DATE:20220424
+DTSTAMP;VALUE=DATE-TIME:20220421T220000Z
+UID:0b0ee8baa372a6156e8fda873b022afddf2c41ba@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT\, FYZ | ZŠ 5 – 9\n\nOrganizátor(i): P-m
+ at\nhttps://www.p-mat.sk/aktivity/kockaty/
+URL:https://www.p-mat.sk/aktivity/kockaty/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Zrušený) Kockatý víkend
+DTSTART;VALUE=DATE:20211022
+DTEND;VALUE=DATE:20211024
+DTSTAMP;VALUE=DATE-TIME:20211021T220000Z
+UID:36ef1d7d948889af6f89d347b623fe215d569115@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT\, FYZ | ZŠ 5 – 9\n\nOrganizátor(i): P-m
+ at\nhttps://www.p-mat.sk/aktivity/kockaty/
+URL:https://www.p-mat.sk/aktivity/kockaty/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Zrušený) Kockatý víkend
+DTSTART;VALUE=DATE:20211015
+DTEND;VALUE=DATE:20211017
+DTSTAMP;VALUE=DATE-TIME:20211014T220000Z
+UID:507bc7913c7c8a75bd6fe8881b1d9510d3809d53@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT\, FYZ | ZŠ 5 – 9\n\nOrganizátor(i): P-m
+ at\nhttps://www.p-mat.sk/aktivity/kockaty/
+URL:https://www.p-mat.sk/aktivity/kockaty/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. séria Pikofyz
+DTSTART;VALUE=DATE:20211004
+DTSTAMP;VALUE=DATE-TIME:20211003T220000Z
+UID:6640414c96653e6d63e4078aab4bd6b37401b326@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk/
+URL:https://pikofyz.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. séria Pikofyz
+DTSTART;VALUE=DATE:20220404
+DTSTAMP;VALUE=DATE-TIME:20220403T220000Z
+UID:cebb1d572b2e4780580c15cf2a84a8a3e08b34ac@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk/
+URL:https://pikofyz.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3. séria Pikofyz
+DTSTART;VALUE=DATE:20211206
+DTSTAMP;VALUE=DATE-TIME:20211205T230000Z
+UID:0310a73f0afb42105729bf38a7f680c3cbdb31b8@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk/
+URL:https://pikofyz.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. séria Pikofyz
+DTSTART;VALUE=DATE:20211108
+DTSTAMP;VALUE=DATE-TIME:20211107T230000Z
+UID:ebd55db7d55b48f53cb1355e0bba4e1f097cac6f@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk/
+URL:https://pikofyz.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kockatý víkend
+DTSTART;VALUE=DATE:20220429
+DTEND;VALUE=DATE:20220501
+DTSTAMP;VALUE=DATE-TIME:20220428T220000Z
+UID:3604013281886dfe7aad3fc2b1b326076bceb6fb@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT\, FYZ | ZŠ 5 – 9\n\nOrganizátor(i): P-m
+ at\nhttps://www.p-mat.sk/aktivity/kockaty/
+URL:https://www.p-mat.sk/aktivity/kockaty/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Náboj Junior
+DTSTART;VALUE=DATE:20211119
+DTSTAMP;VALUE=DATE-TIME:20211118T230000Z
+UID:d9f67af30d98978c1b2654cd7b5de94e0e2d9838@kockatykalendar.sk
+DESCRIPTION:súťaž | FYZ\, MAT | ZŠ 8 – 9\n\nOrganizátor(i): Trojste
+ n\nhttps://junior.naboj.org/
+URL:https://junior.naboj.org/
+END:VEVENT
+END:VCALENDAR

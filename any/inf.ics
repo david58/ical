@@ -1,0 +1,213 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:Akadémia Trojstenu
+DTSTART;VALUE=DATE:20211210
+DTSTAMP;VALUE=DATE-TIME:20211209T230000Z
+UID:8d09781318e0dce7d0c35a25bc4b9da64768d2cc@kockatykalendar.sk
+DESCRIPTION:prednášky | MAT\, FYZ\, INF | SŠ 1 – 4\n\nOrganizátor(i)
+ : Trojsten\nhttps://akademia.trojsten.sk/
+URL:https://akademia.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Letný tábor Trojstenu
+DTSTART;VALUE=DATE:20220810
+DTEND;VALUE=DATE:20220819
+DTSTAMP;VALUE=DATE-TIME:20220809T220000Z
+UID:fbf391a83d486af64c71b6fa50e53c1d961391f3@kockatykalendar.sk
+DESCRIPTION:tábor | MAT\, FYZ\, INF | SŠ 1 – 4\n\nNa LTT ťa čaká od
+ borný i neodborný program\, športové aktivity\, voľný čas stráven
+ ý s novými (alebo starými) kamarátmi a málo spánku :) Ak sa cez leto
+  nudíš a niečo z toho ťa oslovilo\, prihlás sa a zaži neopakovateľn
+ é momenty s partiou uletených ľudí.\n\nOrganizátor(i): Trojsten\nhttp
+ s://ltt.trojsten.sk/
+URL:https://ltt.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Doprogramovanie 1. kola letnej časti KSP
+DTSTART;VALUE=DATE:20220411
+DTSTAMP;VALUE=DATE-TIME:20220410T220000Z
+UID:2dc2f673f2c4e423ab77dd35255101d93cf74299@kockatykalendar.sk
+DESCRIPTION:seminár | INF | SŠ 1 – 4\n\nPo riadnom termíne nastáva f
+ áza doprogramovávania. Počas tejto fázy sa nedajú odovzdávať slovn
+ é popisy\, stále sa však dajú získať body za program. Navyše zverej
+ níme aj vzorové riešenia\, ktoré vám vedia pomôcť úlohu vyriešiť
+  a úspešne naprogramovať.\n\nOrganizátor(i): Trojsten\nhttps://ksp.sk/
+URL:https://ksp.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. kolo zimnej časti KSP
+DTSTART;VALUE=DATE:20211101
+DTSTAMP;VALUE=DATE-TIME:20211031T230000Z
+UID:3f03937a9c8bcaa44590284efcc4ac6fb437f8d4@kockatykalendar.sk
+DESCRIPTION:seminár | INF | SŠ 1 – 4\n\nKorešpondenčný seminár z p
+ rogramovania je súťaž v riešení algoritmických úloh. Riešiš 5 z 8
+  úloh podľa tvojho levelu skúseností. Riešenie obvykle pozostáva z f
+ unkčného programu\, ktorý stránka automaticky otestuje a textového po
+ pisu\, čo program robí.\n\nOrganizátor(i): Trojsten\nhttps://ksp.sk/
+URL:https://ksp.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KSP sústredenie
+DTSTART;VALUE=DATE:20211120
+DTEND;VALUE=DATE:20211127
+DTSTAMP;VALUE=DATE-TIME:20211119T230000Z
+UID:41136d9d5b2d6f87391f7b90b5e2ac4620555b33@kockatykalendar.sk
+DESCRIPTION:sústredenie | INF | SŠ 1 – 4\n\nOrganizátor(i): Trojsten\
+ nhttps://ksp.sk/akcie/sustredenia/
+URL:https://ksp.sk/akcie/sustredenia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Doprogramovanie 2. kola zimnej časti KSP
+DTSTART;VALUE=DATE:20220131
+DTSTAMP;VALUE=DATE-TIME:20220130T230000Z
+UID:a4c480365c4750b8c49911550cb21f2ef7707b3d@kockatykalendar.sk
+DESCRIPTION:seminár | INF | SŠ 1 – 4\n\nPo riadnom termíne nastáva f
+ áza doprogramovávania. Počas tejto fázy sa nedajú odovzdávať slovn
+ é popisy\, stále sa však dajú získať body za program. Navyše zverej
+ níme aj vzorové riešenia\, ktoré vám vedia pomôcť úlohu vyriešiť
+  a úspešne naprogramovať.\n\nOrganizátor(i): Trojsten\nhttps://ksp.sk/
+URL:https://ksp.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Doprogramovanie 1. kola zimnej časti KSP
+DTSTART;VALUE=DATE:20211115
+DTSTAMP;VALUE=DATE-TIME:20211114T230000Z
+UID:c0e7c9e9eb37d99383069a87ee884c7874ca6044@kockatykalendar.sk
+DESCRIPTION:seminár | INF | SŠ 1 – 4\n\nPo riadnom termíne nastáva f
+ áza doprogramovávania. Počas tejto fázy sa nedajú odovzdávať slovn
+ é popisy\, stále sa však dajú získať body za program. Navyše zverej
+ níme aj vzorové riešenia\, ktoré vám vedia pomôcť úlohu vyriešiť
+  a úspešne naprogramovať.\n\nOrganizátor(i): Trojsten\nhttps://ksp.sk/
+URL:https://ksp.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. kolo zimnej časti KSP
+DTSTART;VALUE=DATE:20220117
+DTSTAMP;VALUE=DATE-TIME:20220116T230000Z
+UID:56bea62f82b4ff03419c4adb420fbd9716afa157@kockatykalendar.sk
+DESCRIPTION:seminár | INF | SŠ 1 – 4\n\nKorešpondenčný seminár z p
+ rogramovania je súťaž v riešení algoritmických úloh. Riešiš 5 z 8
+  úloh podľa tvojho levelu skúseností. Riešenie obvykle pozostáva z f
+ unkčného programu\, ktorý stránka automaticky otestuje a textového po
+ pisu\, čo program robí.\n\nOrganizátor(i): Trojsten\nhttps://ksp.sk/
+URL:https://ksp.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. kolo letnej časti KSP
+DTSTART;VALUE=DATE:20220328
+DTSTAMP;VALUE=DATE-TIME:20220327T220000Z
+UID:d523c22ff43c601ea95db2d8d2a8d26f79c1363c@kockatykalendar.sk
+DESCRIPTION:seminár | INF | SŠ 1 – 4\n\nKorešpondenčný seminár z p
+ rogramovania je súťaž v riešení algoritmických úloh. Riešiš 5 z 8
+  úloh podľa tvojho levelu skúseností. Riešenie obvykle pozostáva z f
+ unkčného programu\, ktorý stránka automaticky otestuje a textového po
+ pisu\, čo program robí.\n\nOrganizátor(i): Trojsten\nhttps://ksp.sk/
+URL:https://ksp.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. kolo letnej časti KSP
+DTSTART;VALUE=DATE:20220530
+DTSTAMP;VALUE=DATE-TIME:20220529T220000Z
+UID:70c72e066b8479f55e45716c4c310ad89833159c@kockatykalendar.sk
+DESCRIPTION:seminár | INF | SŠ 1 – 4\n\nKorešpondenčný seminár z p
+ rogramovania je súťaž v riešení algoritmických úloh. Riešiš 5 z 8
+  úloh podľa tvojho levelu skúseností. Riešenie obvykle pozostáva z f
+ unkčného programu\, ktorý stránka automaticky otestuje a textového po
+ pisu\, čo program robí.\n\nOrganizátor(i): Trojsten\nhttps://ksp.sk/
+URL:https://ksp.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Doprogramovanie 2. kola letnej časti KSP
+DTSTART;VALUE=DATE:20220613
+DTSTAMP;VALUE=DATE-TIME:20220612T220000Z
+UID:a56708f7e1f88761042757f5fcec63ce1780cf43@kockatykalendar.sk
+DESCRIPTION:seminár | INF | SŠ 1 – 4\n\nPo riadnom termíne nastáva f
+ áza doprogramovávania. Počas tejto fázy sa nedajú odovzdávať slovn
+ é popisy\, stále sa však dajú získať body za program. Navyše zverej
+ níme aj vzorové riešenia\, ktoré vám vedia pomôcť úlohu vyriešiť
+  a úspešne naprogramovať.\n\nOrganizátor(i): Trojsten\nhttps://ksp.sk/
+URL:https://ksp.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Špongia
+DTSTART;VALUE=DATE:20211022
+DTEND;VALUE=DATE:20211115
+DTSTAMP;VALUE=DATE-TIME:20211021T220000Z
+UID:107937ba6ff1fd07a25154b0f95242b7fad0f2f0@kockatykalendar.sk
+DESCRIPTION:súťaž | INF | ZŠ 5 – SŠ 4\n\nOrganizátor(i): ŠpMNDaG\
+ nhttp://www.smnd.sk/spongia
+URL:http://www.smnd.sk/spongia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zenit školské kolo
+DTSTART;VALUE=DATE:20211019
+DTSTAMP;VALUE=DATE-TIME:20211018T220000Z
+UID:9ff166fe5e8561cad5c42f5f69de3016d785cc97@kockatykalendar.sk
+DESCRIPTION:súťaž | INF | SŠ 1 – 4\n\nZenit v programovaní je postu
+ pová súťaž v programovaní algoritmických úloh. Každé kolo trvá 4
+  hodiny a má približne 10 úloh od uplne lahkých až po ťažké. Rieš
+ enie pozostáva z funkčného programu ktorý sa ihneď automaticky testuj
+ e.\n\nOrganizátor(i): ŠIOV\nhttps://zenit.ksp.sk/
+URL:https://zenit.ksp.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zenit celoštátne kolo
+DTSTART;VALUE=DATE:20220215
+DTEND;VALUE=DATE:20220217
+DTSTAMP;VALUE=DATE-TIME:20220214T230000Z
+UID:4a1327e75eda08b604285cfcddb1decce781c469@kockatykalendar.sk
+DESCRIPTION:súťaž | INF | SŠ 1 – 4\n\nZenit v programovaní je postu
+ pová súťaž v programovaní algoritmických úloh. Každé kolo trvá 4
+  hodiny a má približne 10 úloh od uplne lahkých až po ťažké. Rieš
+ enie pozostáva z funkčného programu ktorý sa ihneď automaticky testuj
+ e.\n\nOrganizátor(i): ŠIOV\nhttps://zenit.ksp.sk/
+URL:https://zenit.ksp.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zenit krajské kolo
+DTSTART;VALUE=DATE:20211125
+DTSTAMP;VALUE=DATE-TIME:20211124T230000Z
+UID:7a486cc0456c7a77961c99b7b110cfc149d3bcd9@kockatykalendar.sk
+DESCRIPTION:súťaž | INF | SŠ 1 – 4\n\nZenit v programovaní je postu
+ pová súťaž v programovaní algoritmických úloh. Každé kolo trvá 4
+  hodiny a má približne 10 úloh od uplne lahkých až po ťažké. Rieš
+ enie pozostáva z funkčného programu ktorý sa ihneď automaticky testuj
+ e.\n\nOrganizátor(i): ŠIOV\nhttps://zenit.ksp.sk/
+URL:https://zenit.ksp.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IOI
+DTSTART;VALUE=DATE:20220807
+DTEND;VALUE=DATE:20220814
+DTSTAMP;VALUE=DATE-TIME:20220806T220000Z
+UID:bb075d36e8b825bde9e1753df838722072b923a2@kockatykalendar.sk
+DESCRIPTION:súťaž | INF | SŠ 1 – 4\n\nOrganizátor(i): \nhttps://ioi
+ 2022.id/
+URL:https://ioi2022.id/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:iBobor
+DTSTART;VALUE=DATE:20211108
+DTEND;VALUE=DATE:20211112
+DTSTAMP;VALUE=DATE-TIME:20211107T230000Z
+UID:b674e1d4dfa81a343037c1063c891579537892e5@kockatykalendar.sk
+DESCRIPTION:súťaž | INF | ZŠ 3 – SŠ 4\n\nOrganizátor(i): FMFI UK\n
+ http://www.ibobor.sk/
+URL:http://www.ibobor.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LSTME - letné sústredenie talentovanej mládeže v elektronike
+DTSTART;VALUE=DATE:20220814
+DTEND;VALUE=DATE:20220828
+DTSTAMP;VALUE=DATE-TIME:20220813T220000Z
+UID:2eb141322d02ea0abd3af10ce3e932d101166343@kockatykalendar.sk
+DESCRIPTION:tábor | INF\, iné | ZŠ 7 – SŠ 4\n\nLetné sústredenie t
+ alentovanej mládeže v elektronike (LSTME) je jedinečné sústredenie pr
+ e chlapcov a dievčatá\, ktorí sa chcú zdokonaliť v oblasti elektronik
+ y v kolektíve profesionálov konkrétneho odboru a ľudí s rovnakými z
+ áujmami.\n\nOrganizátor(i): SSE\nhttps://lstme.sk/
+URL:https://lstme.sk/
+END:VEVENT
+END:VCALENDAR

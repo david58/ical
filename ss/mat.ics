@@ -1,0 +1,211 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:Akadémia Trojstenu
+DTSTART;VALUE=DATE:20211210
+DTSTAMP;VALUE=DATE-TIME:20211209T230000Z
+UID:8d09781318e0dce7d0c35a25bc4b9da64768d2cc@kockatykalendar.sk
+DESCRIPTION:prednášky | MAT\, FYZ\, INF | SŠ 1 – 4\n\nOrganizátor(i)
+ : Trojsten\nhttps://akademia.trojsten.sk/
+URL:https://akademia.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tábor Riešok
+DTSTART;VALUE=DATE:20220822
+DTEND;VALUE=DATE:20220831
+DTSTAMP;VALUE=DATE-TIME:20220821T220000Z
+UID:5714420a20a51d1f1cc6053620f53ce15b66420f@kockatykalendar.sk
+DESCRIPTION:tábor | MAT | ZŠ 5 – SŠ 1\n\nOrganizátor(i): Riešky\nht
+ tps://riesky.sk/
+URL:https://riesky.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STROM sústredenie
+DTSTART;VALUE=DATE:20220130
+DTEND;VALUE=DATE:20220204
+DTSTAMP;VALUE=DATE-TIME:20220129T230000Z
+UID:72ae7b1d993a1673b514c976c66d0029a3f95b66@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | SŠ 1 – 4\n\nOrganizátor(i): Strom\nht
+ tps://seminar.strom.sk/
+URL:https://seminar.strom.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. séria STROM
+DTSTART;VALUE=DATE:20211025
+DTSTAMP;VALUE=DATE-TIME:20211024T220000Z
+UID:1144ead7a0d738b23b719591cc98f4b84364c444@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nOrganizátor(i): Strom\nhttps:
+ //seminar.strom.sk/
+URL:https://seminar.strom.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. séria STROM
+DTSTART;VALUE=DATE:20220404
+DTSTAMP;VALUE=DATE-TIME:20220403T220000Z
+UID:8d6db6e04ee7237facb89939a95fc1c1a4d805f5@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nOrganizátor(i): Strom\nhttps:
+ //seminar.strom.sk/
+URL:https://seminar.strom.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. séria STROM
+DTSTART;VALUE=DATE:20220509
+DTSTAMP;VALUE=DATE-TIME:20220508T220000Z
+UID:c0987c6dffe3df97825a20613dca6d87d7d87626@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nOrganizátor(i): Strom\nhttps:
+ //seminar.strom.sk/
+URL:https://seminar.strom.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. séria STROM
+DTSTART;VALUE=DATE:20211122
+DTSTAMP;VALUE=DATE-TIME:20211121T230000Z
+UID:fae3f5faae6e95afd112f350e68a12be0bb6df63@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nOrganizátor(i): Strom\nhttps:
+ //seminar.strom.sk/
+URL:https://seminar.strom.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Košický Matboj
+DTSTART;VALUE=DATE:20211027
+DTSTAMP;VALUE=DATE-TIME:20211026T220000Z
+UID:f756022a8639ce10f1df1123c792636257c60b46@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT | SŠ 1 – 4\n\nOrganizátor(i): Strom\nhttps:
+ //seminar.strom.sk/sk/matboj/
+URL:https://seminar.strom.sk/sk/matboj/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Letný tábor Trojstenu
+DTSTART;VALUE=DATE:20220810
+DTEND;VALUE=DATE:20220819
+DTSTAMP;VALUE=DATE-TIME:20220809T220000Z
+UID:fbf391a83d486af64c71b6fa50e53c1d961391f3@kockatykalendar.sk
+DESCRIPTION:tábor | MAT\, FYZ\, INF | SŠ 1 – 4\n\nNa LTT ťa čaká od
+ borný i neodborný program\, športové aktivity\, voľný čas stráven
+ ý s novými (alebo starými) kamarátmi a málo spánku :) Ak sa cez leto
+  nudíš a niečo z toho ťa oslovilo\, prihlás sa a zaži neopakovateľn
+ é momenty s partiou uletených ľudí.\n\nOrganizátor(i): Trojsten\nhttp
+ s://ltt.trojsten.sk/
+URL:https://ltt.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3. kolo zimnej časti KMS
+DTSTART;VALUE=DATE:20211206
+DTSTAMP;VALUE=DATE-TIME:20211205T230000Z
+UID:6135224131cb46f19959c49116acabd96494e388@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nBaví ťa matematika? Chceš z
+  nej vedieť viac? Tak neváhaj a zapoj sa do Korešpondenšného Matemati
+ ckého Semináru!\n\nOrganizátor(i): Trojsten\nhttps://kms.sk/
+URL:https://kms.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KMS alfa sústredenie
+DTSTART;VALUE=DATE:20220618
+DTEND;VALUE=DATE:20220625
+DTSTAMP;VALUE=DATE-TIME:20220617T220000Z
+UID:e08ce4831732c386bd43d9fea5cc809a49751ee6@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | SŠ 1 – 2\n\nOrganizátor(i): Trojsten\
+ nhttps://kms.sk/akcie/sustredenia/
+URL:https://kms.sk/akcie/sustredenia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. kolo zimnej časti KMS
+DTSTART;VALUE=DATE:20211004
+DTSTAMP;VALUE=DATE-TIME:20211003T220000Z
+UID:b87797a2c395e40a0e95e40ece7815ccceb7dc5e@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nBaví ťa matematika? Chceš z
+  nej vedieť viac? Tak neváhaj a zapoj sa do Korešpondenšného Matemati
+ ckého Semináru!\n\nOrganizátor(i): Trojsten\nhttps://kms.sk/
+URL:https://kms.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KMS alfa sústredenie
+DTSTART;VALUE=DATE:20220205
+DTEND;VALUE=DATE:20220212
+DTSTAMP;VALUE=DATE-TIME:20220204T230000Z
+UID:d24557853270b4c8a7686baaa6c85f95a81d6b01@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | SŠ 1 – 2\n\nOrganizátor(i): Trojsten\
+ nhttps://kms.sk/akcie/sustredenia/
+URL:https://kms.sk/akcie/sustredenia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3. kolo letnej časti KMS
+DTSTART;VALUE=DATE:20220425
+DTSTAMP;VALUE=DATE-TIME:20220424T220000Z
+UID:de34ea720a47f80af56f04cd14f799af0129f7f5@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nBaví ťa matematika? Chceš z
+  nej vedieť viac? Tak neváhaj a zapoj sa do Korešpondenšného Matemati
+ ckého Semináru!\n\nOrganizátor(i): Trojsten\nhttps://kms.sk/
+URL:https://kms.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KMS beta sústredenie
+DTSTART;VALUE=DATE:20220611
+DTEND;VALUE=DATE:20220618
+DTSTAMP;VALUE=DATE-TIME:20220610T220000Z
+UID:fdfff46327306e8401f4ff57a6f959f317939083@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | SŠ 3 – 4\n\nOrganizátor(i): Trojsten\
+ nhttps://kms.sk/akcie/sustredenia/
+URL:https://kms.sk/akcie/sustredenia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KMS beta sústredenie
+DTSTART;VALUE=DATE:20220122
+DTEND;VALUE=DATE:20220129
+DTSTAMP;VALUE=DATE-TIME:20220121T230000Z
+UID:a4664be183fa0e8defc0fc171517837351ced810@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | SŠ 3 – 4\n\nOrganizátor(i): Trojsten\
+ nhttps://kms.sk/akcie/sustredenia/
+URL:https://kms.sk/akcie/sustredenia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. kolo zimnej časti KMS
+DTSTART;VALUE=DATE:20211108
+DTSTAMP;VALUE=DATE-TIME:20211107T230000Z
+UID:e6dc14a226513efa38f7125eb06b28338204e831@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nBaví ťa matematika? Chceš z
+  nej vedieť viac? Tak neváhaj a zapoj sa do Korešpondenšného Matemati
+ ckého Semináru!\n\nOrganizátor(i): Trojsten\nhttps://kms.sk/
+URL:https://kms.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. kolo letnej časti KMS
+DTSTART;VALUE=DATE:20220228
+DTSTAMP;VALUE=DATE-TIME:20220227T230000Z
+UID:f66fe58c4e5555bc760dacd307929ab473975c8c@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nBaví ťa matematika? Chceš z
+  nej vedieť viac? Tak neváhaj a zapoj sa do Korešpondenšného Matemati
+ ckého Semináru!\n\nOrganizátor(i): Trojsten\nhttps://kms.sk/
+URL:https://kms.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. kolo letnej časti KMS
+DTSTART;VALUE=DATE:20220404
+DTSTAMP;VALUE=DATE-TIME:20220403T220000Z
+UID:790a91e42bce26b89138dc8a2437f7c15e932f3f@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nBaví ťa matematika? Chceš z
+  nej vedieť viac? Tak neváhaj a zapoj sa do Korešpondenšného Matemati
+ ckého Semináru!\n\nOrganizátor(i): Trojsten\nhttps://kms.sk/
+URL:https://kms.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matematický Náboj
+DTSTART;VALUE=DATE:20220318
+DTSTAMP;VALUE=DATE-TIME:20220317T230000Z
+UID:f6b6980c7b368315b5ab7bab8aa519974867cbc0@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT | SŠ 1 – 4\n\nOrganizátor(i): Trojsten\nhtt
+ ps://math.naboj.org/
+URL:https://math.naboj.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IMO
+DTSTART;VALUE=DATE:20220706
+DTEND;VALUE=DATE:20220716
+DTSTAMP;VALUE=DATE-TIME:20220705T220000Z
+UID:534d997952f95fa0580388295b81ef189c8e374e@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT | SŠ 1 – 4\n\nOrganizátor(i): \nhttps://www
+ .imo2022.org/
+URL:https://www.imo2022.org/
+END:VEVENT
+END:VCALENDAR

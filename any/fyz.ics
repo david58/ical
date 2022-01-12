@@ -1,0 +1,251 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:Akadémia Trojstenu
+DTSTART;VALUE=DATE:20211210
+DTSTAMP;VALUE=DATE-TIME:20211209T230000Z
+UID:8d09781318e0dce7d0c35a25bc4b9da64768d2cc@kockatykalendar.sk
+DESCRIPTION:prednášky | MAT\, FYZ\, INF | SŠ 1 – 4\n\nOrganizátor(i)
+ : Trojsten\nhttps://akademia.trojsten.sk/
+URL:https://akademia.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Letný tábor Trojstenu
+DTSTART;VALUE=DATE:20220810
+DTEND;VALUE=DATE:20220819
+DTSTAMP;VALUE=DATE-TIME:20220809T220000Z
+UID:fbf391a83d486af64c71b6fa50e53c1d961391f3@kockatykalendar.sk
+DESCRIPTION:tábor | MAT\, FYZ\, INF | SŠ 1 – 4\n\nNa LTT ťa čaká od
+ borný i neodborný program\, športové aktivity\, voľný čas stráven
+ ý s novými (alebo starými) kamarátmi a málo spánku :) Ak sa cez leto
+  nudíš a niečo z toho ťa oslovilo\, prihlás sa a zaži neopakovateľn
+ é momenty s partiou uletených ľudí.\n\nOrganizátor(i): Trojsten\nhttp
+ s://ltt.trojsten.sk/
+URL:https://ltt.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3. kolo zimnej časti FKS
+DTSTART;VALUE=DATE:20211220
+DTSTAMP;VALUE=DATE-TIME:20211219T230000Z
+UID:e9e781207e00118ea2a31c1e7b2f236e6394d913@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | SŠ 1 – 4\n\nFyzikálny korešpondenčný s
+ eminár je súťaž v riešení netradičných fyzikálnych problémov. Po
+ mocou zaujímavých experimentov a situácií z bežného života sa snaž
+ íme ukázať\, že fyzika nie je taká nudná\, ba dokonca ani taká ťa
+ žká\, ako sa občas zdá.\n\nOrganizátor(i): Trojsten\nhttps://fks.sk/
+URL:https://fks.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FKS sústredenie
+DTSTART;VALUE=DATE:20220129
+DTEND;VALUE=DATE:20220205
+DTSTAMP;VALUE=DATE-TIME:20220128T230000Z
+UID:4df961a7d454ef4c5b7b2d637a4f7e13669c06cc@kockatykalendar.sk
+DESCRIPTION:sústredenie | FYZ | SŠ 1 – 4\n\nOrganizátor(i): Trojsten\
+ nhttps://fks.sk/akcie/sustredenia/
+URL:https://fks.sk/akcie/sustredenia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. kolo zimnej časti FKS
+DTSTART;VALUE=DATE:20211018
+DTSTAMP;VALUE=DATE-TIME:20211017T220000Z
+UID:4a2da87cb0b67ea5bfd622487cabc495ceb91016@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | SŠ 1 – 4\n\nFyzikálny korešpondenčný s
+ eminár je súťaž v riešení netradičných fyzikálnych problémov. Po
+ mocou zaujímavých experimentov a situácií z bežného života sa snaž
+ íme ukázať\, že fyzika nie je taká nudná\, ba dokonca ani taká ťa
+ žká\, ako sa občas zdá.\n\nOrganizátor(i): Trojsten\nhttps://fks.sk/
+URL:https://fks.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FKS sústredenie
+DTSTART;VALUE=DATE:20220625
+DTEND;VALUE=DATE:20220702
+DTSTAMP;VALUE=DATE-TIME:20220624T220000Z
+UID:e20d14063948a8a1f271cc216bd72e50ca6d2be2@kockatykalendar.sk
+DESCRIPTION:sústredenie | FYZ | SŠ 1 – 4\n\nOrganizátor(i): Trojsten\
+ nhttps://fks.sk/akcie/sustredenia/
+URL:https://fks.sk/akcie/sustredenia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3. kolo letnej časti FKS
+DTSTART;VALUE=DATE:20220516
+DTSTAMP;VALUE=DATE-TIME:20220515T220000Z
+UID:dd6f947b0ea6ca7b5634428873ad7bc306558f5b@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | SŠ 1 – 4\n\nFyzikálny korešpondenčný s
+ eminár je súťaž v riešení netradičných fyzikálnych problémov. Po
+ mocou zaujímavých experimentov a situácií z bežného života sa snaž
+ íme ukázať\, že fyzika nie je taká nudná\, ba dokonca ani taká ťa
+ žká\, ako sa občas zdá.\n\nOrganizátor(i): Trojsten\nhttps://fks.sk/
+URL:https://fks.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. kolo zimnej časti FKS
+DTSTART;VALUE=DATE:20211115
+DTSTAMP;VALUE=DATE-TIME:20211114T230000Z
+UID:ab313a72c3c48a6c8db58994c3ee31ce51d0dc1d@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | SŠ 1 – 4\n\nFyzikálny korešpondenčný s
+ eminár je súťaž v riešení netradičných fyzikálnych problémov. Po
+ mocou zaujímavých experimentov a situácií z bežného života sa snaž
+ íme ukázať\, že fyzika nie je taká nudná\, ba dokonca ani taká ťa
+ žká\, ako sa občas zdá.\n\nOrganizátor(i): Trojsten\nhttps://fks.sk/
+URL:https://fks.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. kolo letnej časti FKS
+DTSTART;VALUE=DATE:20220321
+DTSTAMP;VALUE=DATE-TIME:20220320T230000Z
+UID:220c9de8f7b9e275ae1e65e8b5fa60467e9d6d8b@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | SŠ 1 – 4\n\nFyzikálny korešpondenčný s
+ eminár je súťaž v riešení netradičných fyzikálnych problémov. Po
+ mocou zaujímavých experimentov a situácií z bežného života sa snaž
+ íme ukázať\, že fyzika nie je taká nudná\, ba dokonca ani taká ťa
+ žká\, ako sa občas zdá.\n\nOrganizátor(i): Trojsten\nhttps://fks.sk/
+URL:https://fks.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. kolo letnej časti FKS
+DTSTART;VALUE=DATE:20220425
+DTSTAMP;VALUE=DATE-TIME:20220424T220000Z
+UID:0503f9db2b4e853f0510af4dc396852204934984@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | SŠ 1 – 4\n\nFyzikálny korešpondenčný s
+ eminár je súťaž v riešení netradičných fyzikálnych problémov. Po
+ mocou zaujímavých experimentov a situácií z bežného života sa snaž
+ íme ukázať\, že fyzika nie je taká nudná\, ba dokonca ani taká ťa
+ žká\, ako sa občas zdá.\n\nOrganizátor(i): Trojsten\nhttps://fks.sk/
+URL:https://fks.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jarná škola FX
+DTSTART;VALUE=DATE:20220410
+DTEND;VALUE=DATE:20220415
+DTSTAMP;VALUE=DATE-TIME:20220409T220000Z
+UID:5644461102f1e4e9517aecab1cd1a88cb81f0325@kockatykalendar.sk
+DESCRIPTION:sústredenie | FYZ | SŠ 1 – 4\n\nOrganizátor(i): Trojsten\
+ nhttps://fx.fks.sk/jarna_skola_fx/
+URL:https://fx.fks.sk/jarna_skola_fx/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. séria Pikofyz
+DTSTART;VALUE=DATE:20220228
+DTSTAMP;VALUE=DATE-TIME:20220227T230000Z
+UID:3a7e372221e8b1d3cf637064785993fc390be6eb@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk/
+URL:https://pikofyz.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Zrušený) Pikofyz sústredenie
+DTSTART;VALUE=DATE:20220122
+DTEND;VALUE=DATE:20220129
+DTSTAMP;VALUE=DATE-TIME:20220121T230000Z
+UID:c3d728b598ef77832ab56d4f9cd02710804b6b21@kockatykalendar.sk
+DESCRIPTION:sústredenie | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nht
+ tps://pikofyz.sk/
+URL:https://pikofyz.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3. séria Pikofyz
+DTSTART;VALUE=DATE:20220502
+DTSTAMP;VALUE=DATE-TIME:20220501T220000Z
+UID:b4f06e17a5d4f21ba04c62cbbaf4f7b34e8b1683@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk/
+URL:https://pikofyz.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kockatý víkend
+DTSTART;VALUE=DATE:20220422
+DTEND;VALUE=DATE:20220424
+DTSTAMP;VALUE=DATE-TIME:20220421T220000Z
+UID:0b0ee8baa372a6156e8fda873b022afddf2c41ba@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT\, FYZ | ZŠ 5 – 9\n\nOrganizátor(i): P-m
+ at\nhttps://www.p-mat.sk/aktivity/kockaty/
+URL:https://www.p-mat.sk/aktivity/kockaty/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Zrušený) Kockatý víkend
+DTSTART;VALUE=DATE:20211022
+DTEND;VALUE=DATE:20211024
+DTSTAMP;VALUE=DATE-TIME:20211021T220000Z
+UID:36ef1d7d948889af6f89d347b623fe215d569115@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT\, FYZ | ZŠ 5 – 9\n\nOrganizátor(i): P-m
+ at\nhttps://www.p-mat.sk/aktivity/kockaty/
+URL:https://www.p-mat.sk/aktivity/kockaty/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Zrušený) Kockatý víkend
+DTSTART;VALUE=DATE:20211015
+DTEND;VALUE=DATE:20211017
+DTSTAMP;VALUE=DATE-TIME:20211014T220000Z
+UID:507bc7913c7c8a75bd6fe8881b1d9510d3809d53@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT\, FYZ | ZŠ 5 – 9\n\nOrganizátor(i): P-m
+ at\nhttps://www.p-mat.sk/aktivity/kockaty/
+URL:https://www.p-mat.sk/aktivity/kockaty/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. séria Pikofyz
+DTSTART;VALUE=DATE:20211004
+DTSTAMP;VALUE=DATE-TIME:20211003T220000Z
+UID:6640414c96653e6d63e4078aab4bd6b37401b326@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk/
+URL:https://pikofyz.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. séria Pikofyz
+DTSTART;VALUE=DATE:20220404
+DTSTAMP;VALUE=DATE-TIME:20220403T220000Z
+UID:cebb1d572b2e4780580c15cf2a84a8a3e08b34ac@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk/
+URL:https://pikofyz.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3. séria Pikofyz
+DTSTART;VALUE=DATE:20211206
+DTSTAMP;VALUE=DATE-TIME:20211205T230000Z
+UID:0310a73f0afb42105729bf38a7f680c3cbdb31b8@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk/
+URL:https://pikofyz.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. séria Pikofyz
+DTSTART;VALUE=DATE:20211108
+DTSTAMP;VALUE=DATE-TIME:20211107T230000Z
+UID:ebd55db7d55b48f53cb1355e0bba4e1f097cac6f@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk/
+URL:https://pikofyz.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kockatý víkend
+DTSTART;VALUE=DATE:20220429
+DTEND;VALUE=DATE:20220501
+DTSTAMP;VALUE=DATE-TIME:20220428T220000Z
+UID:3604013281886dfe7aad3fc2b1b326076bceb6fb@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT\, FYZ | ZŠ 5 – 9\n\nOrganizátor(i): P-m
+ at\nhttps://www.p-mat.sk/aktivity/kockaty/
+URL:https://www.p-mat.sk/aktivity/kockaty/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Náboj Junior
+DTSTART;VALUE=DATE:20211119
+DTSTAMP;VALUE=DATE-TIME:20211118T230000Z
+UID:d9f67af30d98978c1b2654cd7b5de94e0e2d9838@kockatykalendar.sk
+DESCRIPTION:súťaž | FYZ\, MAT | ZŠ 8 – 9\n\nOrganizátor(i): Trojste
+ n\nhttps://junior.naboj.org/
+URL:https://junior.naboj.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fyzikálny Náboj
+DTSTART;VALUE=DATE:20211105
+DTSTAMP;VALUE=DATE-TIME:20211104T230000Z
+UID:c180e4cbbe35e8adccb8171801e6a389e260747e@kockatykalendar.sk
+DESCRIPTION:súťaž | FYZ | SŠ 1 – 4\n\nOrganizátor(i): Trojsten\nhtt
+ ps://physics.naboj.org/
+URL:https://physics.naboj.org/
+END:VEVENT
+END:VCALENDAR
